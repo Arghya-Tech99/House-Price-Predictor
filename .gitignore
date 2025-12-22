@@ -1,0 +1,16 @@
+# Environment and Dependencies
+.venv/
+
+# Ignore ZenML local artifacts if using it
+.zen/
+
+# IDE settings
+.idea/
+
+# Data and log files
+Data/
+*.csv
+*.zip
+
+# Python Artifacts
+__pycache__/
