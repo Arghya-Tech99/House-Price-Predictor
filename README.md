@@ -1,5 +1,11 @@
 # End-to-End House Price Predictor (MLOps Integrated)
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![ZenML](https://img.shields.io/badge/ZenML-000000?style=for-the-badge&logo=zenml&logoColor=white)
+![MLflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=mlflow&logoColor=blue)
+
 ## Project Overview
 Most house price prediction projects stop at a Jupyter Notebook. This project takes a "simple" idea and implements it with professional engineering standards. It focuses on building a scalable, readable, and reproducible machine learning pipeline using **ZenML** for orchestration and **MLflow** for experiment tracking.
 ### Key Features:
